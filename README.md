@@ -2,6 +2,6 @@
 Logo of ApiBuild
 
 
-![apiunit-logo.png](apiunit-logo.png)
+![apibuild-logo.png](apibuild-logo.png)
 
-![apiunit-logo-box.png](apiunit-logo-box.png)
+![apibuild-logo-box.png](apibuild-logo-box.png)
